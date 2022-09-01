@@ -1,6 +1,6 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/Lukembou">Programmer</a>, <a href="https://www.linkedin.com/in/luke-boudreaux-4b2913249/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCDYJKcmr_-KwaFmsdPESWkQ">YouTuber</a></h1>
+<h1>Hi, I'm Luke!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
