@@ -7,8 +7,8 @@
   - 
   - 
 - <b>Python</b>
-  - https://github.com/Lukembou/Budget-Tracker
-  -
+  - Simple Budget Tracker! https://github.com/Lukembou/Budget-Tracker
+  - Intermediate Expense Tracker! https://github.com/Lukembou/ExpenseTrackerPy
   -
 
 <h2> 🤳 Connect with me:</h2>
