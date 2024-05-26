@@ -14,7 +14,7 @@
 - <b>Python</b>
   - Simple Budget Tracker! https://github.com/Lukembou/Budget-Tracker
   - Intermediate Expense Tracker! https://github.com/Lukembou/ExpenseTrackerPy
-  -
+  - File Checker!  https://github.com/Lukembou/file_checker.py/blob/main/README.md
 
 <h2> 🤳 Connect with me:</h2>
 
